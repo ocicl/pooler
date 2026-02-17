@@ -2,9 +2,8 @@
 
 A Simple, Thread-Safe Pooling Library for Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/quasi/pooler.git   |
-| commit  | d55aaf7  |
-| systems | pooler |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------|
+| source  | git:https://github.com/quasi/pooler.git |
+| commit  | ec11055                                 |
+| systems | pooler                                  |
+|---------+-----------------------------------------|
